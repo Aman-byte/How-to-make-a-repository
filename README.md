@@ -13,6 +13,6 @@
 7. Click on Create repository.<br />
 8. Boom! you have create your new repository.
 If you liked this repository or you want to visit again to see some step you missed. Please star and fork this repository.
-<img scr="https://github.com/Aman-byte/How-to-make-a-repository/blob/main/images/star.png/">
+<img src="https://github.com/Aman-byte/How-to-make-a-repository/blob/main/images/star.png">
 
 Thanks! Happy Coding
