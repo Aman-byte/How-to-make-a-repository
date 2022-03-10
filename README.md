@@ -4,7 +4,7 @@
 2a. Click on the "+" sign or the drop down menu besides it and select "New repository".
 <img src="https://github.com/Aman-byte/How-to-make-a-repository/blob/main/images/new%20repo.png/">
 2b. Or you can click on the button, which says "New".
-<img scr="https://github.com/Aman-byte/How-to-make-a-repository/blob/main/images/Button.png/">
+<img src="https://github.com/Aman-byte/How-to-make-a-repository/blob/main/images/Button.png/">
 3.Now here we can see the name of the owner of the new repository in this case its Aman-byte(me). Now enter repository name of your choice. For example: "my-new-repo".
 <img src="https://github.com/Aman-byte/How-to-make-a-repository/blob/main/images/repo%20name.png/">
 4. Add description for the repository. For example: "my new repository on github".<br />
